@@ -1,6 +1,6 @@
 {
   "name": "mrzdome2",
-  "app_id": "",
+  "app_id": "fb489d4a",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
